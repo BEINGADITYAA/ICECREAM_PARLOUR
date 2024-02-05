@@ -19,3 +19,4 @@ Here's a breakdown of the classes:
    - Displays the final bill, summarizing the user's choices and the total cost.
 
 The program follows a simple flow where the user makes sequential choices to customize their ice cream order. It provides a basic example of object-oriented programming principles, user input handling, and conditional branching in Java.
+![PROJECT-OUTPUT](https://github.com/BEINGADITYAA/ICECREAM_PARLOUR/assets/113417825/ee463f2c-b7a8-426f-aafb-97396e0e4774)
